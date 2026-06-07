@@ -5,8 +5,6 @@
 
 - 🤝 I’m looking for help with **Any Backend or Frontend project**
 
-- 👨‍💻 All of my projects are available at [sdksquirtle.github.io](sdksquirtle.github.io)
-
 - 💬 Ask me about **PHP, JS, Python, C#, Linux**
 
 - 📫 How to reach me **rachit.kaul15@gmail.com**
