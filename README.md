@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachit Kaul</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m working on **sdksquirtle.github.io Where powerful code meets Gotham’s darkness🦇🦹🏻‍♂️**
+- 🔭 I’m working on **sdksquirtle.github.io**, Where powerful code meets Gotham’s darkness🦇🦹🏻‍♂️
 
 - 🤝 I’m looking for help with **Any Backend or Frontend project**
 
