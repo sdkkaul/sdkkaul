@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Any Backend or Frontend project**
 
-- 💬 Ask me about **PHP, JS, Python, C#, Linux**
+- 💬 Ask me about **JS, Python, C#, Linux**
 
 - 📫 How to reach me **rachit.kaul15@gmail.com**
 
