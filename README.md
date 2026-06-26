@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachit Kaul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [My Website](sdkkaul.github.io)
+- 🔭 I’m currently working on **My Website**
 
 - 👯 I’m looking to collaborate on **Any Frontend or Backend Project**
 
